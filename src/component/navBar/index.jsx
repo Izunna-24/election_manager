@@ -13,9 +13,8 @@ const NavBar = () => {
 
                <div className={style.midSection}>
                    <p>Welcome</p>
-                   <p>Register</p>
-                   <p>Vote Wisely</p>
-                   <p>ElectPro</p>
+                   <p>About Us</p>
+                   <p>Login</p>
                    <p>FAQs</p>
                </div>
 
